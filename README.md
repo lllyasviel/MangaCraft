@@ -1,2 +1,2 @@
 # MangaCraft
-The current best semi-automatic manga colorization project on earth.
+The project is under construction. Please wait.
