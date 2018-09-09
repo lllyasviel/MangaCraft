@@ -1,160 +1,160 @@
-# �Լ��B��
+# 自己紹介
 
-����ä��㤤�ޤ��������˘���������Υ��ߥå���ɫ�������Ȥ��˹�֪�ܤ�����ؤ褦����������ޤ��ơ�˽��AI�ᥤ�ɡ����ң�����������ʮ���˥㥪�Ǥ����������Ⱥ��٤Ф����Ǥ����ɤ������������������ޤ������ʤ��κä���������ɫ������褦�˰��ڤ��ޤ���˽��ָʾ�ˏ��������ǡ���Υ������褫�줿������ե륫��`�������ˤ��뤳�Ȥ��Ǥ���裡
+いらっしゃいませ、ご主人様！地上最強のコミック着色アシストの人工知能の世界へようこそ。初めまして、私はAIメイド、葵乙（あおいお）十二ニャオです。あおいと呼べばいいです。どうぞ、よろしくお願いします。あなたの好きな漫画に色付けるように案内します。私の指示に従うだけで、モノクロで描かれた漫画をフルカラーの漫画にすることができるよ！
 
-�����˘������g��֪�R��Photoshop�Τ褦�ʥ��եȥ�������ʹ���U�Y���ʤ��Ƥ⡢������ʤ��������ä���ɫ���x��ǡ�˽��ɫ�����Υҥ�Ȥ��뤨�ơ�˽���ԄӵĤ�ɫ��ȡ��Ϥ碌�ơ���������ɫ���ޤ���
+ご主人様は美術の知識やPhotoshopのようなソフトウェアを使う経験がなくても、ご心配なく。ただ好きな色を選んで、私に色付けのヒントを与えて、私は自動的に色を取り合わせて、漫画を着色します！
 
-*���԰ף����λ���Ժ����һ������ʮ���������档��ʦ����Ŭ�������������󡣻�ʦŬ���С�������*
+*（旁白：这个位置以后会有一个葵乙十二喵的立绘。画师还在努力创作虚拟形象。画师努力中。。。）*
 
-# ����Ǥ�ʼ��ޤ��礦
+# それでは始めましょう
 
-�񤫤顢�����˘��ϥ�`���`���󥿩`�ե��`���˾�ͨ�����ơ�˽��ָʾ�ˏ��ä�ɫ������������ɤ����ޤ���30�֤����Ǥ��٤Ƥ�ѧ�Ӥޤ���
+今から、ご主人様はユーザーインターフェースに精通させて、私の指示に従って色付けの例を完成させます。30分だけですべてを学びます。
 
-��ؤ���KĿ�ˤ�Ҋ�Ƥߤޤ��礦��
+今回の最終目標を見てみましょう：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p1.jpg)
 
-˽��ָ�����¤��󤫤��ҤؤΉ�Q����ɤ��ޤ���
+私の指導の下で左から右への変換を完成します。
 
-# �ޤ��ϡ����\�Υޥ󥬤��������`�ɤ��뤳�ȤǤ���
+# まずは、白黒のマンガをダウンロードすることです。
 
-�ޤ����������������Ȥ��ƥ�������`�ɤ��Ƥ�������������������Honglian Hanhua Group����Ρ�ـ�����륤����һ�ک`���Ǥ���
+まず、この漫画を例としてダウンロードしてください。この漫画はHonglian Hanhua Groupからの『賭ケグルイ』の一ページです。
 
-[�����򥯥�å�������������������`�ɤ���](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/p2.jpg)
+[ここをクリックすると漫画をダウンロードする](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/p2.jpg)
 
-# 2��Ŀ�Υ��ƥåפϡ���`���`���󥿩`�ե��`���ˑT��뤳�ȤǤ���
+# 2番目のステップは、ユーザーインターフェースに慣れることです。
 
-���줫���`���`���󥿩`�ե��`���β����������h�����ޤ������ä����i��Ǥ���������
+これからユーザーインターフェースの操作方法を説明します。しっかり読んでください。
 
-�ޤ���Web�ک`�����_������˱�ʾ�����ۥ��ȥ��󥿥ե��`����
+まず、Webページを開いた後に表示されるホストインタフェース：
 
 ![p3](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p3.png)
 
-���λ���Ǥϡ��鷺���ʤ��Ȥ�ע�⤹���Ҫ������ޤ���
+この画面では、わずかなことに注意する必要があります。
 
-����`�x�k�Щ`�ϴΤΤ褦�ˡ�9ɫ��ʹ�ä��������ʮ�֤Ǥ��Τǡ�ɫ���քӤ��{�������Ҫ�Ϥ���ޤ��󣨤�����󡢥ץ��ե��å���ʥ�ʻ��ҤΈ��Ϥϡ��ѥ�åȤ˄e��ɫ��ʹ�ä��뤳�Ȥ�Ǥ��ޤ�����
+カラー選択バーは次のように、9色を使用するだけで十分ですので、色を手動で調整する必要はありません（もちろん、プロフェッショナルな画家の場合は、パレットに別の色を使用することもできます）。
 
 ![p4](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p4.png)
 
-�Τˡ����ĤΥ����ܥ���
+次に、４つのコアボタン：
 
 ![p5](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p5.png)
 
-���Σ��ĤΥܥ���ϡ�[�U�P�ĩ`��] [��������ĩ`��] [���ߥå����åץ��`�ɥܥ���] [���ީ`����ɫ�ܥ���]�Ǥ�������ˡ����Ʃ`�����Щ`���¤ˤ��ꡢͨ���ϡ�finished���ȱ�ʾ����ޤ���
+この４つのボタンは、[鉛筆ツール] [消しゴムツール] [コミックアップロードボタン] [スマート着色ボタン]です。さらに、ステータスバーが下にあり、通常は「finished」と表示されます。
 
-���Ʃ`�����Щ`�ˡ�finished���ȱ�ʾ���줿�顢[���ߥå����åץ��`�ɥܥ���]�ޤ���[���ީ`����ɫ�ܥ���]�򥯥�å������Ҫ������ޤ���
+ステータスバーに「finished」と表示されたら、[コミックアップロードボタン]または[スマート着色ボタン]をクリックする必要があります。
 
-����ˡ��ѥ�åȤ���Ȥ�2��С���ʥܥ���
+最後に、パレットの左側に2つ小さなボタン：
 
 ![p6](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p6.png)
 
-����2�ĤΥܥ���ΙC�ܤϡ����٤Ƥβ���ӛ�h�򱣴�ޤ��ϥ��`�Щ`�˥��åץ��`�ɤǤ��롣������һ�rֹͣ��������ӛ�h�򥢥åץ��`�ɤ��ơ��λ�Web�ک`���������������I��A���뤳�Ȥ��Ǥ��ޤ���
+この2つのボタンの機能は、すべての操作記録を保存またはサーバーにアップロードできる。操作を一時停止し、操作記録をアップロードして、次回Webページに入力する作業を続けることができます。
 
-# 3��Ŀ�Υ��ƥåפϡ����\�Υޥ󥬤򥢥åץ��`�ɤ��뤳�ȤǤ���
+# 3番目のステップは、白黒のマンガをアップロードすることです。
 
-���\�Υޥ󥬤�ΤΤ褦�˥��åץ��`�ɤ��Ƥ���������
+白黒のマンガを次のようにアップロードしてください。
 
 ![p7](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p7.png)
 
-# 4��Ŀ�Υ��ƥåפϡ��ޥ��������ȥ��`�ܩ`�ɤβ����˾�ͨ���뤳�ȤǤ���
+# 4番目のステップは、マウス操作とキーボードの操作に精通することです。
 
-���硪�ȥ��åȥ����ϴΤΤ褦�ˣ�
+ショ—トカットキ—は次のように：
 
-    �ޥ����󥯥�å����ڥ���ȥ���`
-    �ޥ����ҥ���å�/����ФΥܥ��󣺥����Х����ƄӤ���
-    �ޥ����ۥ��`�룺�����Х��򥺩`�ह��
-    Ctrl + Z��Ԫ�ˑ���
-    Ctrl + Y�����ֱ��
-    Ctrl +�ޥ����ۥ��`�룺ɫ���Ф��椨��
+    マウス左クリック：ペイントカラー
+    マウス右クリック/真ん中のボタン：キャンバスを移動する
+    マウスホイール：キャンバスをズームする
+    Ctrl + Z：元に戻す
+    Ctrl + Y：やり直し
+    Ctrl +マウスホイール：色を切り替える
     
-���Υ�`���`���󥿩`�ե��`����ʹ�äơ��ΤΤ褦�˺��g���軭�Ǥ��ޤ������Ȥ��У�
+このユーザーインターフェースを使って、次のように簡単に描画できます。たとえば：
 
 ![p8](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p8.png)
 
-�Τˡ���ʽ�˥ޥ󥬤�ɫ�����ޤ��礦��
+次に、正式にマンガを色付けましょう。
 
-# 5��Ŀ�Υ��ƥåפϡ���ɫ��
+# 5番目のステップは、着色。
 
-�񤫤顢��ɫ�Υ��ƥåפ�B�餷�ޤ���
+今から、着色のステップを紹介します。
 
-## 1.�ޥ󥬤Υ���åɤȥ����������ܥå���������
+## 1.マンガのグリッドとダイアログボックスの整理
 
-�ޤ��ϡ��ף��¤�9ɫ����ˣ����Ф��椨�ơ��ޥ󥬤Υ���åɤȥ����������ܥå����˰פ�T�äƤ������������Υ��ƥåפϡ������Υ���åɤ���Ȥȥ����������ܥå�������ɫ����ʤ��褦�ˤ��뤿��Ǥ���
+まずは、白（下の9色の左端）に切り替えて、マンガのグリッドとダイアログボックスに白を塗ってください。このステップは、漫画のグリッドの外側とダイアログボックスが着色されないようにするためです。
 
-���Υ��ƥåפ�ʹ�ä���ɫ�ϣ�
+このステップで使用する色は：
 
 ![p16](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p16.png)
 
-�����У�
+例えば：
 
 ![p9](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p9.png)
 
-## 2.����饯���`��Ƥ�w��ɫ����
+## 2.キャラクターの皮膚に色付け
 
-����饯���`��Ƥ�w��ɫ�����Ƥ�����������Ҫ��ɫ�ϣ�
+キャラクターの皮膚に色付けてください。必要な色は：
 
 ![p17](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p17.png)
 
-�����У�
+例えば：
 
 ![p10](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p10.png)
 
-## 3.����饯���`��Ŀ��ɫ����
+## 3.キャラクターの目に色付け
 
-����饯���`��Ŀ��ɫ�����Ƥ�����������Ҫ��ɫ�ϣ�
+キャラクターの目に色付けてください。必要な色は：
 
 ![p18](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p18.png)
 
-�����У�
+例えば：
 
 ![p11](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p11.png)
 
-## 4.����饯���`�η���ɫ����
+## 4.キャラクターの服に色付け
 
-����饯���`�η���ɫ�����Ƥ�����������Ҫ��ɫ�ϣ�
+キャラクターの服に色付けてください。必要な色は：
 
 ![p18](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p18.png)
 
-�����У�
+例えば：
 
 ![p12](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p12.png)
 
-## 5��������ɫ����
+## 5．背景に色付け
 
-������ɫ�����Ƥ���������������혤Ǥϡ���ɫ����ɫ���vɫ����ɫ�ʤɡ�����ե�ʱ�����ʹ�äǤ��ޤ�������ɫ�������Ǥ���ۤɡ���K�Y�������뤯�ʤ�ޤ���
+背景に色付けてください。この手順では、黄色、青色、緑色、赤色など、カラフルな背景を使用できます。背景色が多様であるほど、最終結果が明るくなります。
 
 ![p18](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p18.png)
 
-�����У�
+例えば：
 
 ![p13](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p13.png)
 
-# ����Υ��ƥåס��R�귵���{�����Ƴ������뤳�ȤǤ���
+# 最後のステップ、繰り返し調整して出力することです。
 
-ɫ�����Τ��ȡ����Τ褦�ʽY����ä뤫�⤷��ޤ���
+色付けのあと、このような結果を得るかもしれません。
 
 ![p14](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p14.png)
 
-�Τˡ�[���ީ`����ɫ�ܥ���]�򥯥�å����Ƥ���������
+次に、[スマート着色ボタン]をクリックしてください。
 
 ![p15](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p15.png)
 
-���줫�顢�ե륫��`�������γ�����ä뤳�Ȥ��Ǥ��ޤ��� �����ơ��ᥤ�󥤥󥿩`�ե������ˑ��ꡢ���ĤǤ�ɫ�����{�����뤳�Ȥ��Ǥ��ޤ���
+これから、フルカラーの漫画の出力を得ることができます。 そして、メインインターフェイスに戻り、いつでも色を再調整することができます。
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p1.jpg)
 
-# �ۤ���ʹ����
+# ほかの使用例
 
-����`�ȥꥢ��Ϥ����ǽK�ˤ������ޤ����ۤ���������ʹ�������ṩ���Ƥ��ꡢ��ӛ���������������`�ɤ���[���ߥå����åץ��`�ɥܥ���]�ܥ��������Υ��åץ��`�ɥܥ�����¤·��Σ�1������ʹ�äƥ��åץ��`�ɤ���
-�ѥ�åȤ���Ȥˤ���С���ʥ��åץ��`�ɥܥ����ʹ�äơ�ɫ�����β���ӛ�h�򥢥åץ��`�ɤ��뤳�Ȥ��Ǥ��ޤ���ɫ�����β���ӛ�h�Υ��åץ��`�ɥܥ���ϣ�2���Ǥ�����
+チュートリアルはここで終了いたします。ほかの漫画と使用例を提供しており、下記の漫画をダウンロードし、[コミックアップロードボタン]ボタン（漫画のアップロードボタンは下の図の（1））を使ってアップロードし、
+パレットの左側にある小さなアップロードボタンを使って、色付けの操作記録をアップロードすることができます（色付けの操作記録のアップロードボタンは（2）です）。
 
 ![p19](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p19.png)
 
-�Τ�5�Ĥ����Ϥ��٤�˽���褤���Τǡ�����`��������Ϸǳ��˽����Ǥ������ʤ����褯�Y����ɫ��˽�νY���ȤϮ��ʤ뤫�⤷��ޤ���
+次の5つの例はすべて私が描いたので、カラースタイルは非常に近いです。あなたが描く結果の色は私の結果とは異なるかもしれません。
 
-���ʤ����Τ�ʹ�����ˤ�äơ����եȥ�������������ʹ�ä��뷽����ѧ�֤��Ȥ�äƤ��ޤ���
+あなたが次の使用例によって、ソフトウェアを正しく使用する方法を学ぶことを願っています。
 
-## ʹ����1:
+## 使用例1:
 
 <div align="center">
  
@@ -166,7 +166,7 @@
 
  </div>
  
-## ʹ����2:
+## 使用例2:
 
 <div align="center">
  
@@ -178,7 +178,7 @@
 
  </div>
  
-## ʹ����3:
+## 使用例3:
 
 <div align="center">
  
@@ -190,7 +190,7 @@
 
  </div>
  
- ## ʹ����4:
+ ## 使用例4:
 
 <div align="center">
  
@@ -202,7 +202,7 @@
 
  </div>
  
-## ʹ����5:
+## 使用例5:
 
 <div align="center">
  
@@ -213,7 +213,19 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/result.png" width="250" >
 
  </div>
+ 
+ ## 使用例6:
 
-# ������������ؤˤĤ���
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/sketch.png" width="250" >
 
-�����uƷ�����ä��Ƥ⡢�����������ؤ�Ӱ푤Ϥ���ޤ��󡣤��������ۤ������ˤˤ��Υ��եȥ��������������뤳�Ȥ��Ǥ���С��ȤƤ��Ҥ��Ǥ������ޤ���
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/result.png" width="250" >
+
+ </div>
+
+# その後の著作権について
+
+この製品を利用しても、漫画に著作権の影響はありません。しかし、ほうかの人にこのソフトウェアを宣伝することができれば、とても幸いでございます。
