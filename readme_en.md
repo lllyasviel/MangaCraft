@@ -219,6 +219,18 @@ Enjoy your journey!
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/result.png" width="250" >
 
  </div>
+ 
+ ## Additional Example No. 6
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/result.png" width="250" >
+
+ </div>
 
 # About Copyright
 
