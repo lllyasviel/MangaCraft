@@ -225,6 +225,18 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/result.png" width="250" >
 
  </div>
+ 
+  ## 使用例7:
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/result.png" width="250" >
+
+ </div>
 
 # その後の著作権について
 
