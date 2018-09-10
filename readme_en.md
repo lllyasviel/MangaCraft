@@ -16,13 +16,13 @@ Here is our final goal in this example:
 
 You will be able to colorize the left image into the right image with my assistance.
 
-# Step 1: Download the sample
+# Step 1: Download the sample.
 
 First, please download sample manga from the link below.
 
 [Click here to download sample](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/p2.jpg)
 
-# Step 2: Familiar with the UI
+# Step 2: Familiar with the UI.
 
 Since the UI is the only way we can communicate with each other, please read the instruction carefully.
 
@@ -48,13 +48,13 @@ On the right upper corner, there are two buttons: “Upload user editing” and 
 
 You can save or load your colorization hints (all points and scribble lines you have created.) by click these buttons. By saving user editing to local storage, you can pause or continue work anytime and anywhere as your wish.
 
-# Step 3: Upload a black-and-white manga to the website
+# Step 3: Upload a black-and-white manga to the website.
 
 Please upload your sample by this procedure.
 
 ![p7](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p7.png)
 
-# Step 4: Familiar with Shortcuts
+# Step 4: Familiar with Shortcuts.
 
 Here is a briefing about shortcuts:
 
@@ -69,11 +69,11 @@ You can use this interface to draw something, for example:
 
 ![p8](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p8.png)
 
-# Step 5: Colorization
+# Step 5: Colorization.
 
 In this section, I’ll demonstrate how to colorize your manga step by step.
 
-## 1. Clearing the edge
+## 1. Clearing the edge.
 
 In this step, the color you shall use is here:
 
@@ -117,7 +117,7 @@ Example：
 
 ![p12](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p12.png)
 
-## 5. Drawing the background
+## 5. Drawing the background.
 
 Colorize the background. A background may contain several colors (e.g. Yellow-Blue-Green-Red), the more color you used, the more colorful result is.
 
@@ -127,7 +127,7 @@ Example：
 
 ![p13](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p13.png)
 
-# 6. Optimizing and finishing
+# 6. Optimizing and finishing.
 
 When you complete your painting, the interface may similar to this:
 
@@ -141,7 +141,7 @@ And then you can see the full-colored manga. You can save this picture, or get b
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p1.jpg)
 
-# Additional Example
+# Additional Example.
 
 The tutorial is end. If you want to learn further about MangaCraft, here are some examples for you. You can use “Upload Manga” button (See (1) in below picture) to upload black-and-white sample, then use “Upload user editing” (See (1) in below picture) to upload the user scribbles.
 
