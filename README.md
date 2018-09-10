@@ -1,5 +1,7 @@
-# Ñ¡ÔñÓïÑÔ / Selecting your language / ÑÔÕZßx’k
+# é€‰æ‹©è¯­è¨€ / Selecting your language / è¨€èªé¸æŠ
 
-[¼òÌåÖĞÎÄ](https://github.com/lllyasviel/MangaCraft/blob/master/readme_zh.md)
+[ç®€ä½“ä¸­æ–‡](https://github.com/lllyasviel/MangaCraft/blob/master/readme_zh.md)
+
 [English](https://github.com/lllyasviel/MangaCraft/blob/master/readme_en.md)
-[ÈÕ±¾Óï](https://github.com/lllyasviel/MangaCraft/blob/master/readme_ja.md)
+
+[æ—¥æœ¬è¯­](https://github.com/lllyasviel/MangaCraft/blob/master/readme_ja.md)
