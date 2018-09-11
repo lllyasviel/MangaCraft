@@ -243,6 +243,6 @@ Furthermore, if you want to use our software in large-scale commercial or indust
     Please attach following materials when e-mailing us:
     The name and additional information of the commercial publication.
     The quantity of pages you are willing to print.
-    The sample images of the black-and-white manga and the sample pages colored via our software
+    The sample images of the black-and-white manga and the sample pages colored via our software.
 
 With our permission, you can enjoy more professional services with our cutting-edge technologies. Please do not use our software for large-scale commercial or industrial publications without our approval.
