@@ -235,4 +235,14 @@ You can learn in these examples. All of these examples are colorized by the auth
 
 # About Copyright
 
-We won’t claim any additional copyright of colorize-processed manga, but we would be delightful if you share our software with your friends.
+We won’t claim any additional copyright of the colorized manga, but we would be delightful if you share our software with your friends.
+
+Furthermore, if you want to use our software in large-scale commercial or industrial production or publication, e.g. manga (entity paper manga or online e-manga), magazine, book or other online/offline large-scale materials, please contact us for permission:
+
+    914847518@qq.com
+    Please attach following materials when e-mail me:
+    The name and additional information of the commercial publication.
+    The quantity of pages you are willing to print.
+    The sample images of the black-and-white manga and the sample pages colored via our software
+
+With our permission, you can enjoy more professional services with our cutting-edge technologies. Please do not use our software for large-scale commercial or industrial publications without our approval.
