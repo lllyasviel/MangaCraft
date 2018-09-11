@@ -226,7 +226,7 @@
 
  </div>
  
-  ## 使用例7:
+## 使用例7:
 
 <div align="center">
  
@@ -235,6 +235,18 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/hint.png" width="250" >
 
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/result.png" width="250" >
+
+ </div>
+ 
+## 使用例8:
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/result.png" width="250" >
 
  </div>
 
