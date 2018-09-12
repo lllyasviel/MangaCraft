@@ -155,6 +155,8 @@
 
 ## 附加案例1
 
+賭ケグルイ
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/001/sketch.png" width="250" >
@@ -179,6 +181,8 @@
  
 ## 附加案例3
 
+そらのおとしもの 
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/sketch.png" width="250" >
@@ -190,6 +194,8 @@
  </div>
  
  ## 附加案例4
+ 
+オーバーロード
 
 <div align="center">
  
@@ -214,6 +220,8 @@
  </div>
  
  ## 附加案例6
+ 
+ 变女
 
 <div align="center">
  
@@ -227,6 +235,8 @@
  
 ## 附加案例7
 
+变女
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/sketch.png" width="250" >
@@ -239,6 +249,8 @@
  
 ## 附加案例8
 
+变女
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/sketch.png" width="250" >
@@ -250,6 +262,8 @@
  </div>
  
 ## 附加案例9
+
+シスコン兄とブラコン妹が正直になったら
 
 <div align="center">
  
