@@ -1,10 +1,10 @@
 # Introduction
 
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/kui.png)
+
 Hi, my master! I’m Kawei·Twelve, an AI assistant to help you to colorize any kinds of manga. Following my instruction, you can transform any manga you like into a full-colored one.
 
 Even without any painting experience, without any color knowledges, without any professional software skills, you can master the color of arbitrary black-and-white manga (or called comic) by follow this tutorial step by step. All you need to do is to select a few colors and mark where will be colorized, I’ll do all the rest.
-
-*（旁白：这个位置以后会有一个葵乙十二喵的立绘。画师还在努力创作虚拟形象。画师努力中。。。）*
 
 # Let's begin.
 
