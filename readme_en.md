@@ -151,6 +151,8 @@ You can learn in these examples. All of these examples are colorized by the auth
 
 ## Additional Example 1
 
+賭ケグルイ
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/001/sketch.png" width="250" >
@@ -175,6 +177,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  
 ## Additional Example 3
 
+そらのおとしもの
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/sketch.png" width="250" >
@@ -186,6 +190,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  </div>
  
  ## Additional Example 4
+ 
+ オーバーロード
 
 <div align="center">
  
@@ -210,6 +216,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  </div>
  
  ## Additional Example 6
+ 
+ 变女
 
 <div align="center">
  
@@ -223,6 +231,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  
 ## Additional Example 7
 
+变女
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/007/sketch.png" width="250" >
@@ -235,6 +245,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  
 ## Additional Example 8
 
+变女
+
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/sketch.png" width="250" >
@@ -246,6 +258,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  </div>
  
 ## Additional Example 9
+
+シスコン兄とブラコン妹が正直になったら
 
 <div align="center">
  
