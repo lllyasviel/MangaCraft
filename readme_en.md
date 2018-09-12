@@ -233,7 +233,7 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
- ## Additional Example 8
+## Additional Example 8
 
 <div align="center">
  
@@ -242,6 +242,18 @@ You can learn in these examples. All of these examples are colorized by the auth
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/hint.png" width="250" >
 
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/result.png" width="250" >
+
+ </div>
+ 
+## Additional Example 9
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/result.png" width="250" >
 
  </div>
 
