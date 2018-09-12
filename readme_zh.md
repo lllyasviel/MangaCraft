@@ -248,6 +248,18 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/result.png" width="250" >
 
  </div>
+ 
+## 附加案例9
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/result.png" width="250" >
+
+ </div>
 
 # 后期版权
 
