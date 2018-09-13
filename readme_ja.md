@@ -172,7 +172,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
 ## 使用例2:
 
-(饭田ぽち)
+(七瀬瑞穂)
 
 <div align="center">
  
@@ -220,7 +220,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
 ## 使用例5:
 
-(七瀬瑞穂)
+(饭田ぽち)
 
 <div align="center">
  
