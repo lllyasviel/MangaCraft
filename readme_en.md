@@ -151,7 +151,7 @@ You can learn in these examples. All of these examples are colorized by the auth
 
 ## Additional Example 1
 
-賭ケグルイ
+賭ケグルイ(河本ほむら)
 
 <div align="center">
  
@@ -163,7 +163,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
 ## Additional Example 2
+
+(七瀬瑞穂)
 
 <div align="center">
  
@@ -175,9 +179,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
 ## Additional Example 3
 
-そらのおとしもの
+そらのおとしもの(水无月嵩)
 
 <div align="center">
  
@@ -189,9 +195,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+ CC-BY-NC-4.0 (only for this presentation)
+ 
  ## Additional Example 4
  
- オーバーロード
+オーバーロード(丸山くがね)
 
 <div align="center">
  
@@ -203,7 +211,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
 ## Additional Example 5
+
+(饭田ぽち)
 
 <div align="center">
  
@@ -215,9 +227,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+ CC-BY-NC-4.0 (only for this presentation)
+ 
  ## Additional Example 6
  
- 变女
+变女(此ノ木よしる)
 
 <div align="center">
  
@@ -229,9 +243,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+CC-BY 4.0 (full lisense)
+ 
 ## Additional Example 7
 
-变女
+变女(此ノ木よしる)
 
 <div align="center">
  
@@ -243,9 +259,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+CC-BY 4.0 (full lisense)
+ 
 ## Additional Example 8
 
-变女
+变女(此ノ木よしる)
 
 <div align="center">
  
@@ -257,9 +275,11 @@ You can learn in these examples. All of these examples are colorized by the auth
 
  </div>
  
+ CC-BY 4.0 (full lisense)
+ 
 ## Additional Example 9
 
-シスコン兄とブラコン妹が正直になったら
+シスコン兄とブラコン妹が正直になったら(叶乃はるか)
 
 <div align="center">
  
@@ -270,6 +290,8 @@ You can learn in these examples. All of these examples are colorized by the auth
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/result.png" width="250" >
 
  </div>
+ 
+ CC-BY-NC-4.0 (only for this presentation)
 
 # About Copyright
 
