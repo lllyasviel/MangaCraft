@@ -168,6 +168,8 @@
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
 ## 使用例2:
 
 (饭田ぽち)
@@ -181,6 +183,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/result.png" width="250" >
 
  </div>
+ 
+ CC-BY-NC-4.0 (only for this presentation)
  
 ## 使用例3:
 
@@ -196,6 +200,8 @@
 
  </div>
  
+ CC-BY-NC-4.0 (only for this presentation)
+ 
  ## 使用例4:
  
  オーバーロード(丸山くがね)
@@ -209,6 +215,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/result.png" width="250" >
 
  </div>
+ 
+ CC-BY-NC-4.0 (only for this presentation)
  
 ## 使用例5:
 
@@ -224,6 +232,8 @@
 
  </div>
  
+ CC-BY-NC-4.0 (only for this presentation)
+ 
  ## 使用例6:
  
 变女(此ノ木よしる)
@@ -237,6 +247,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/006/result.png" width="250" >
 
  </div>
+ 
+ CC-BY 4.0 (full lisense)
  
 ## 使用例7:
 
@@ -252,6 +264,8 @@
 
  </div>
  
+CC-BY 4.0 (full lisense)
+ 
 ## 使用例8:
 
 变女(此ノ木よしる)
@@ -265,6 +279,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/result.png" width="250" >
 
  </div>
+
+ CC-BY 4.0 (full lisense)
  
  ## 使用例9:
  
@@ -279,6 +295,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/result.png" width="250" >
 
  </div>
+ 
+ CC-BY-NC-4.0 (only for this presentation)
 
 # その後の著作権について
 
