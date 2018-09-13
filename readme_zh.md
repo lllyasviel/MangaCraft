@@ -155,7 +155,7 @@
 
 ## 附加案例1
 
-賭ケグルイ
+賭ケグルイ(河本ほむら)
 
 <div align="center">
  
@@ -167,7 +167,11 @@
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
 ## 附加案例2
+
+(七瀬瑞穂)
 
 <div align="center">
  
@@ -179,9 +183,11 @@
 
  </div>
  
+ CC-BY-NC-4.0 (only for this presentation)
+ 
 ## 附加案例3
 
-そらのおとしもの 
+そらのおとしもの(水无月嵩)
 
 <div align="center">
  
@@ -193,9 +199,11 @@
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
  ## 附加案例4
  
-オーバーロード
+オーバーロード(丸山くがね)
 
 <div align="center">
  
@@ -207,7 +215,11 @@
 
  </div>
  
+CC-BY-NC-4.0 (only for this presentation)
+ 
 ## 附加案例5
+
+(饭田ぽち)
 
 <div align="center">
  
@@ -219,9 +231,11 @@
 
  </div>
  
+ CC-BY-NC-4.0 (only for this presentation)
+ 
  ## 附加案例6
  
- 变女
+变女(此ノ木よしる)
 
 <div align="center">
  
@@ -233,9 +247,11 @@
 
  </div>
  
+CC-BY 4.0 (full lisense)
+ 
 ## 附加案例7
 
-变女
+变女(此ノ木よしる)
 
 <div align="center">
  
@@ -247,9 +263,11 @@
 
  </div>
  
+CC-BY 4.0 (full lisense)
+ 
 ## 附加案例8
 
-变女
+变女(此ノ木よしる)
 
 <div align="center">
  
@@ -260,6 +278,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/008/result.png" width="250" >
 
  </div>
+ 
+CC-BY 4.0 (full lisense)
  
 ## 附加案例9
 
@@ -274,6 +294,8 @@
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/009/result.png" width="250" >
 
  </div>
+ 
+CC-BY-NC-4.0 (only for this presentation)
 
 # 后期版权
 
