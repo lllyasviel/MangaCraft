@@ -297,6 +297,18 @@ CC-BY 4.0 (full lisense)
  </div>
  
  CC-BY-NC-4.0 (only for this presentation)
+ 
+## 使用例10:
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/result.png" width="250" >
+
+ </div>
 
 # その後の著作権について
 
