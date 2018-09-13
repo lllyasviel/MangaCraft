@@ -297,6 +297,22 @@ CC-BY 4.0 (full lisense)
  
 CC-BY-NC-4.0 (only for this presentation)
 
+## 附加案例10
+
+シスコン兄とブラコン妹が正直になったら
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/result.png" width="250" >
+
+ </div>
+ 
+CC-BY-NC-4.0 (only for this presentation)
+
 # 后期版权
 
 使用我们产品上色不对您的漫画产生任何版权影响。但是如果你能在传播漫画的过程中帮助我们宣传我们的软件，我们将会非常开心。
