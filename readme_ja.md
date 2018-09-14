@@ -309,6 +309,22 @@ CC-BY 4.0 (full lisense)
 <img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/010/result.png" width="250" >
 
  </div>
+ 
+## 使用例11:
+ 
+ シスコン兄とブラコン妹が正直になったら(叶乃はるか)
+
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/011/sketch.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/011/hint.png" width="250" >
+
+<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/011/result.png" width="250" >
+
+ </div>
+ 
+ CC-BY-NC-4.0 (only for this presentation)
 
 # その後の著作権について
 
