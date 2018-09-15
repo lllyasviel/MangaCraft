@@ -16,6 +16,8 @@
 
 私の指導の下で左から右への変換を完成します。
 
+ビデオを見ることができます。[YouTube](https://www.youtube.com/watch?v=KVgtN2Curak)
+
 # まずは、白黒のマンガをダウンロードすることです。
 
 まず、この漫画を例としてダウンロードしてください。この漫画はHonglian Hanhua Groupからの『賭ケグルイ』の一ページです。
