@@ -243,7 +243,7 @@ CC-BY-NC-4.0 (only for this presentation)
 
  </div>
  
-CC-BY 4.0 (full lisense)
+ CC-BY-NC-4.0 (only for this presentation)
  
 ## Additional Example 7
 
@@ -259,7 +259,7 @@ CC-BY 4.0 (full lisense)
 
  </div>
  
-CC-BY 4.0 (full lisense)
+ CC-BY-NC-4.0 (only for this presentation)
  
 ## Additional Example 8
 
@@ -275,7 +275,7 @@ CC-BY 4.0 (full lisense)
 
  </div>
  
- CC-BY 4.0 (full lisense)
+ CC-BY-NC-4.0 (only for this presentation)
  
 ## Additional Example 9
 
