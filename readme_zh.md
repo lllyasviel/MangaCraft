@@ -16,7 +16,7 @@
 
 您将会在我的指导下完成左边到右边的转换。
 
-或者你也可以看一个视频。 [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak)
+**或者你也可以看一个视频。** [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak)
 
 # 第一步，下载实例黑白漫画。
 
