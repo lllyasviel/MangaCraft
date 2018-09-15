@@ -16,6 +16,8 @@ Here is our final goal in this example:
 
 You will be able to colorize the left image into the right image with my assistance.
 
+Or you can watch a video in [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak).
+
 # Step 1: Download the sample.
 
 First, please download sample manga from the link below.
