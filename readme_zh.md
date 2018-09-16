@@ -1,9 +1,13 @@
 # 您也许可以选择阅读
 
 [知乎](https://zhuanlan.zhihu.com/p/44423583)
+
 [油管](https://www.youtube.com/watch?v=KVgtN2Curak)
+
 [推特](https://twitter.com/IlIIlIIIllIllII/status/1040635210994311168)
+
 [BiliBili](https://www.bilibili.com/video/av31791419?from=search&seid=9664850524982509123)
+
 [酷安](https://www.coolapk.com/feed/8163259)
 
 # 我的自述
