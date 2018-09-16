@@ -166,72 +166,8 @@ You can learn in these examples. All of these examples are colorized by the auth
  </div>
  
 CC-BY-NC-4.0 (only for this presentation)
- 
+
 ## Additional Example 2
-
-(七瀬瑞穂)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/result.png" width="250" >
-
- </div>
- 
-CC-BY-NC-4.0 (only for this presentation)
- 
-## Additional Example 3
-
-そらのおとしもの(水无月嵩)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/result.png" width="250" >
-
- </div>
- 
- CC-BY-NC-4.0 (only for this presentation)
- 
- ## Additional Example 4
- 
-オーバーロード(丸山くがね)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/result.png" width="250" >
-
- </div>
- 
-CC-BY-NC-4.0 (only for this presentation)
- 
-## Additional Example 5
-
-(饭田ぽち)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/result.png" width="250" >
-
- </div>
- 
- CC-BY-NC-4.0 (only for this presentation)
- 
- ## Additional Example 6
  
 变女(此ノ木よしる)
 
@@ -247,7 +183,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
  CC-BY-NC-4.0 (only for this presentation)
  
-## Additional Example 7
+## Additional Example 3
 
 变女(此ノ木よしる)
 
@@ -263,7 +199,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
  CC-BY-NC-4.0 (only for this presentation)
  
-## Additional Example 8
+## Additional Example 4
 
 变女(此ノ木よしる)
 
@@ -279,7 +215,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
  CC-BY-NC-4.0 (only for this presentation)
  
-## Additional Example 9
+## Additional Example 5
 
 シスコン兄とブラコン妹が正直になったら(叶乃はるか)
 
@@ -293,7 +229,7 @@ CC-BY-NC-4.0 (only for this presentation)
 
  </div>
  
- ## Additional Example 10
+ ## Additional Example 6
 
 <div align="center">
  
@@ -305,7 +241,7 @@ CC-BY-NC-4.0 (only for this presentation)
 
  </div>
  
-## Additional Example 11
+## Additional Example 7
 
 シスコン兄とブラコン妹が正直になったら(叶乃はるか)
 
