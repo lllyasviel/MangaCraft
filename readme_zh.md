@@ -10,7 +10,7 @@
 
 [酷安](https://www.coolapk.com/feed/8163259)
 
-[B吧](https://tieba.baidu.com/p/5882081148)
+[萌娘百科](https://zh.moegirl.org/Mangacraft)
 
 # 我的自述
 
