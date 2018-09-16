@@ -10,6 +10,8 @@
 
 [酷安](https://www.coolapk.com/feed/8163259)
 
+[B吧](https://tieba.baidu.com/p/5882081148)
+
 # 我的自述
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/kui.png)
