@@ -12,6 +12,8 @@
 
 [萌娘百科](https://zh.moegirl.org/Mangacraft)
 
+[百度贴吧](https://tieba.baidu.com/p/5882549205)
+
 # 我的自述
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/kui.png)
