@@ -188,70 +188,6 @@
 CC-BY-NC-4.0 (only for this presentation)
  
 ## 附加案例2
-
-(七瀬瑞穂)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/002/result.png" width="250" >
-
- </div>
- 
- CC-BY-NC-4.0 (only for this presentation)
- 
-## 附加案例3
-
-そらのおとしもの(水无月嵩)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/003/result.png" width="250" >
-
- </div>
- 
-CC-BY-NC-4.0 (only for this presentation)
- 
- ## 附加案例4
- 
-オーバーロード(丸山くがね)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/004/result.png" width="250" >
-
- </div>
- 
-CC-BY-NC-4.0 (only for this presentation)
- 
-## 附加案例5
-
-(饭田ぽち)
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/sketch.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/hint.png" width="250" >
-
-<img src="https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/005/result.png" width="250" >
-
- </div>
- 
- CC-BY-NC-4.0 (only for this presentation)
- 
- ## 附加案例6
  
 变女(此ノ木よしる)
 
@@ -267,7 +203,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
  CC-BY-NC-4.0 (only for this presentation)
  
-## 附加案例7
+## 附加案例3
 
 变女(此ノ木よしる)
 
@@ -283,7 +219,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
  CC-BY-NC-4.0 (only for this presentation)
  
-## 附加案例8
+## 附加案例4
 
 变女(此ノ木よしる)
 
@@ -299,7 +235,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
  CC-BY-NC-4.0 (only for this presentation)
  
-## 附加案例9
+## 附加案例5
 
 シスコン兄とブラコン妹が正直になったら
 
@@ -315,7 +251,7 @@ CC-BY-NC-4.0 (only for this presentation)
  
 CC-BY-NC-4.0 (only for this presentation)
 
-## 附加案例10
+## 附加案例6
 
 <div align="center">
  
@@ -327,7 +263,7 @@ CC-BY-NC-4.0 (only for this presentation)
 
  </div>
  
-## 附加案例11
+## 附加案例7
 
 シスコン兄とブラコン妹が正直になったら
 
