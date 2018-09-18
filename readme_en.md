@@ -18,8 +18,6 @@ Here is our final goal in this example:
 
 You will be able to colorize the left image into the right image with my assistance.
 
-*Or you can watch a video in [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak).*
-
 # Step 1: Download the sample.
 
 First, please download sample manga from the link below.
@@ -152,6 +150,8 @@ The tutorial is end. If you want to learn further about MangaCraft, here are som
 ![p19](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/p19.png)
 
 You can learn in these examples. All of these examples are colorized by the author of MangaCraft, and they look similar in color style. It could be changed if you painting these manga in your own style.
+
+*Or you can watch a video in [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak).*
 
 ## Additional Example 1
 
