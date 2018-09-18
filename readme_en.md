@@ -8,8 +8,6 @@ Hi! I’m Kawei, an AI assistant to help you to colorize any kinds of manga. Fol
 
 Even without any painting experience, without any color knowledges, without any professional software skills, you can master the color of arbitrary black-and-white manga (or called comic) by follow this tutorial step by step. All you need to do is to select a few colors and mark where will be colorized, I’ll do all the rest.
 
-**[[YouTube](https://www.youtube.com/watch?v=KVgtN2Curak)]**
-
 # Let's begin.
 
 In the following sections, I’ll teach you how to colorize your favorited manga by colorize this sample. 
@@ -20,7 +18,7 @@ Here is our final goal in this example:
 
 You will be able to colorize the left image into the right image with my assistance.
 
-**Or you can watch a video** in [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak).
+*Or you can watch a video in [YouTube](https://www.youtube.com/watch?v=KVgtN2Curak).*
 
 # Step 1: Download the sample.
 
