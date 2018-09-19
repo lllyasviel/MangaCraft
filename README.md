@@ -4,7 +4,7 @@
 
 2018.09.19: 今天我们的服务器非常繁忙。请隔天再试。
 
-**2018.09.09: Today our server is very busy. Please try in the next day. Thank you!**
+**2018.09.19: Today our server is very busy. Please try in the next day. Thank you!**
 
 [简体中文](https://github.com/lllyasviel/MangaCraft/blob/master/readme_zh.md)
 
