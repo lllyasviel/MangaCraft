@@ -1,5 +1,7 @@
 # Introduction
 
+**2018.09.19: Today our server is very busy. Please try in the next day. Thank you!**
+
 http://mangacraft.net/
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/kui.png)
