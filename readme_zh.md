@@ -307,16 +307,17 @@ CC-BY-NC-4.0 (only for this presentation)
 
 服务器寿命还有:大约25天。
 
-到目前为止收益是：100元。
+到目前为止收益是：110元。
 
 服务器每个月金额：5630元。
 
-每个月收益是：亏损5530元。
+每个月收益是：亏损5520元。
 
 汇款人数：1。
 
 已经汇款人：
 
-    cv-cogito
+    cv-cogito（100元）
+    洛基（10元）
 
 ![qian](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/qian.jpg)
