@@ -303,7 +303,7 @@ CC-BY-NC-4.0 (only for this presentation)
 
     http://mangacraft.net/
     
-# 服务器死亡倒计时
+# 服务器死亡倒计时(每天中午12点更新下面的列表)
 
 服务器寿命还有:大约25天。
 
