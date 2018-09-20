@@ -313,7 +313,7 @@ CC-BY-NC-4.0 (only for this presentation)
 
 每个月收益是：亏损5520元。
 
-汇款人数：1。
+汇款人数：2。
 
 已经汇款人：
 
