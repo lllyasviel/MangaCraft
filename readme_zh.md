@@ -313,4 +313,4 @@ CC-BY-NC-4.0 (only for this presentation)
 
 每个月收益是：亏损5630元。
 
-![qian](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/qian.png)
+![qian](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/qian.jpg)
