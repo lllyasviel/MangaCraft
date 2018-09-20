@@ -313,4 +313,8 @@ CC-BY-NC-4.0 (only for this presentation)
 
 每个月收益是：亏损5630元。
 
+汇款人数：0。
+
+已经汇款人：无。
+
 ![qian](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/qian.jpg)
