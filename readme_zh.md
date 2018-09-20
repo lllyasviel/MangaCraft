@@ -302,3 +302,15 @@ CC-BY-NC-4.0 (only for this presentation)
 # APP
 
     http://mangacraft.net/
+    
+# 服务器死亡倒计时
+
+服务器寿命还有24天。
+
+到目前为止收益是：0元。
+
+服务器每个月金额：5630元。
+
+每个月收益是：亏损5630元。
+
+![qian](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/qian.png)
