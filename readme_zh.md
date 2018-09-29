@@ -292,6 +292,12 @@ CC-BY-NC-4.0 (only for this presentation)
 
 请不要在没有联系我们的情况下大规模商业使用本产品。
 
+# 汉化组注意
+
+如果你需要在某些社区分享用我们的产品上色的作品，请加上这一页：
+
+[点击这里下载漫画夹页](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/imgs/cm.png)
+
 # 中文社区
 
 欢迎加入以下500人qq群，但是不保证一直有空位，如果你一次加群失败，可以多次尝试。
