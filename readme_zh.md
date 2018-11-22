@@ -303,28 +303,7 @@ CC-BY-NC-4.0 (only for this presentation)
 欢迎加入以下500人qq群，但是不保证一直有空位，如果你一次加群失败，可以多次尝试。
 
     纸片协会总舵-圣辇船（已经满了不要加）：184467946
-    纸片协会分部-红魔馆（建议你加这个群）：879417437
     
 # APP
 
     http://mangacraft.net/
-    
-# 服务器死亡倒计时(每天中午12点更新下面的列表)
-
-服务器寿命还有:大约25天。
-
-到目前为止收益是：111元。
-
-服务器每个月金额：5630元。
-
-每个月收益是：亏损5519元。
-
-汇款人数：3。
-
-已经汇款人：
-
-    w北方w（1元）
-    cv-cogito（100元）
-    洛基（10元）
-
-![qian](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/qian.jpg)
